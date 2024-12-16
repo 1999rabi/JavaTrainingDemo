@@ -1,2 +1,2 @@
 # JavaTrainingDemo
-First Git Repo
+First Git Repository
